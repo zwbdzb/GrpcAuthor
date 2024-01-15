@@ -1,32 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\T480\\source\\repos\\GrpcAuthor\\GrpcAuthor\\GrpcAuthor.csproj": {}
+    "/Users/admin/GrpcAuthor/GrpcAuthor/GrpcAuthor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\T480\\source\\repos\\GrpcAuthor\\GrpcAuthor\\GrpcAuthor.csproj": {
+    "/Users/admin/GrpcAuthor/GrpcAuthor/GrpcAuthor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\T480\\source\\repos\\GrpcAuthor\\GrpcAuthor\\GrpcAuthor.csproj",
+        "projectUniqueName": "/Users/admin/GrpcAuthor/GrpcAuthor/GrpcAuthor.csproj",
         "projectName": "GrpcAuthor",
-        "projectPath": "C:\\Users\\T480\\source\\repos\\GrpcAuthor\\GrpcAuthor\\GrpcAuthor.csproj",
-        "packagesPath": "C:\\Users\\T480\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\T480\\source\\repos\\GrpcAuthor\\GrpcAuthor\\obj\\",
+        "projectPath": "/Users/admin/GrpcAuthor/GrpcAuthor/GrpcAuthor.csproj",
+        "packagesPath": "/Users/admin/.nuget/packages/",
+        "outputPath": "/Users/admin/GrpcAuthor/GrpcAuthor/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\T480\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/admin/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "net7.0": {
+            "targetAlias": "net7.0",
             "projectReferences": {}
           }
         },
@@ -37,12 +35,16 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "dependencies": {
             "Grpc.AspNetCore": {
               "target": "Package",
               "version": "[2.34.0, )"
+            },
+            "Grpc.Tools": {
+              "target": "Package",
+              "version": "[2.60.0, )"
             },
             "System.Linq.Async": {
               "target": "Package",
@@ -55,7 +57,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -67,7 +70,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200-preview.21079.7\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.400/RuntimeIdentifierGraph.json"
         }
       }
     }

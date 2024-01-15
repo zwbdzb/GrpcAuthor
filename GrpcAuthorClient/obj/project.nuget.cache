@@ -1,19 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "+WC6mSPQ9UlVt2ef43tkUJzNjS2XOwJ9TN5T5NhyWbSzGfRr0EZYYD31PZOCWG3s7MT0XSxDKWlilDc/VZZwNg==",
+  "dgSpecHash": "hIpS6UV2HPuXtSobWhW1nwJpJvk7eB2sjZ+z79Qx8X9QLpN6BPhzWgFitcFIMS75Jj3X7rW4ixsEc4aEqUvdTQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\T480\\source\\repos\\GrpcAuthor\\GrpcAuthorClient\\GrpcAuthorClient.csproj",
+  "projectFilePath": "/Users/admin/GrpcAuthor/GrpcAuthorClient/GrpcAuthorClient.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\T480\\.nuget\\packages\\google.protobuf\\3.15.1\\google.protobuf.3.15.1.nupkg.sha512",
-    "C:\\Users\\T480\\.nuget\\packages\\grpc.core.api\\2.35.0\\grpc.core.api.2.35.0.nupkg.sha512",
-    "C:\\Users\\T480\\.nuget\\packages\\grpc.net.client\\2.35.0\\grpc.net.client.2.35.0.nupkg.sha512",
-    "C:\\Users\\T480\\.nuget\\packages\\grpc.net.common\\2.35.0\\grpc.net.common.2.35.0.nupkg.sha512",
-    "C:\\Users\\T480\\.nuget\\packages\\grpc.tools\\2.35.0\\grpc.tools.2.35.0.nupkg.sha512",
-    "C:\\Users\\T480\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.0.3\\microsoft.extensions.logging.abstractions.3.0.3.nupkg.sha512",
-    "C:\\Users\\T480\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.5.1\\system.diagnostics.diagnosticsource.4.5.1.nupkg.sha512",
-    "C:\\Users\\T480\\.nuget\\packages\\system.linq.async\\4.0.0\\system.linq.async.4.0.0.nupkg.sha512",
-    "C:\\Users\\T480\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
-    "C:\\Users\\T480\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512"
+    "/Users/admin/.nuget/packages/google.protobuf/3.25.2/google.protobuf.3.25.2.nupkg.sha512",
+    "/Users/admin/.nuget/packages/grpc.core.api/2.60.0/grpc.core.api.2.60.0.nupkg.sha512",
+    "/Users/admin/.nuget/packages/grpc.net.client/2.60.0/grpc.net.client.2.60.0.nupkg.sha512",
+    "/Users/admin/.nuget/packages/grpc.net.common/2.60.0/grpc.net.common.2.60.0.nupkg.sha512",
+    "/Users/admin/.nuget/packages/grpc.tools/2.60.0/grpc.tools.2.60.0.nupkg.sha512",
+    "/Users/admin/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.0/microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "/Users/admin/.nuget/packages/system.linq.async/4.0.0/system.linq.async.4.0.0.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,0 +1,29 @@
+syntax = "proto3";
+
+option csharp_namespace = "PingPongA";
+
+package greet;
+
+// The PingPong service definition.
+service PingPong {
+  rpc PingPongHello(stream Serve) returns (stream Catch);
+}
+
+// The request message containing the user's name.
+message Serve {
+  int32   id =1;
+  Direction direct = 2;
+}
+
+// The response message containing the greetings.
+message Catch {
+  int32 id=1;
+  Direction direct =2;
+}
+
+enum Direction {
+  Front = 0;
+  Back = 1;
+  Left= 2;
+  Right= 3;
+}
